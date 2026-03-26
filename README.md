@@ -69,7 +69,7 @@ Screenshot 2026-03-26 110618.png
 
 ## 🔗 Project Link
 
-👉 GitHub Repository: https://github.com/yourusername/project-name  
+👉 GitHub Repository: https://github.com/sahil1000725/Amazon Global Sales Dashboard (Power BI)
 
 ---
 
